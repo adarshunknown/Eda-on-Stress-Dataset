@@ -79,9 +79,9 @@ Built a foundation for future predictive modeling of stress levels
 ├── Stress_Dataset.csv            # Dataset used in the project
 └── README.md                     # Project documentation
 
-⚙️ How to Run
+How to Run
 
 Clone the repository
 
-git clone https://github.com/your-adarshunknown/stress-detection-eda.git
+git clone https://github.com/adarshunknown/stress-detection-eda.git
 cd stress-detection-eda
